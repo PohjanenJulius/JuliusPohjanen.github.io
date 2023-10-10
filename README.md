@@ -5,4 +5,4 @@
 
 **this is a test**
 
-¨¨This is my experiment on github pages using markdown language.¨¨
+~~This is my experiment on github pages using markdown language.~~
